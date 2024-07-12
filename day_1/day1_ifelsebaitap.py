@@ -10,4 +10,3 @@ elif num1 <20:
 else:
     print("this number is equal to 20")
     
-    
