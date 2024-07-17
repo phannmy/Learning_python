@@ -6,3 +6,4 @@ while num != 0:
     sum  = num + sum
     num = int(input())
 print(sum)
+
